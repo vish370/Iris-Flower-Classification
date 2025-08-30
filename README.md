@@ -15,4 +15,4 @@ A Machine Learning project using Python & Scikit-learn.
 - Saved trained model (`.pkl` file)
 
   🔹 Notebook:
-👉 [View Jupyter Notebook]
+[View Jupyter Notebook](irisflower_project.ipynb)
